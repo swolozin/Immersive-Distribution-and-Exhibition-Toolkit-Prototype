@@ -467,8 +467,8 @@ Visit unframed-collection.com => Visit unframed-collection.com
 Immersive Arts facilities directory => Immersive Arts facilities directory
 Facilities for immersive work across the UK. => Facilities for immersive work across the UK.
 Visit facilities.immersivearts.uk => Visit facilities.immersivearts.uk
-Shared index (Google Sheet) => Shared index (Google Sheet)
-A shared spreadsheet index from the research team. => A shared spreadsheet index from the research team.
+Shared index (Google Sheet) => Radius Immersive Exhibition Parameters Matrix
+A shared spreadsheet index from the research team. => A shared spreadsheet of Radius venues parameters from the Radius team.
 Open the sheet => Open the sheet
 
 # ===== Top menu =====
